@@ -46,3 +46,5 @@ def printInfo(some_dict):
             print(element)
         print( )
 printInfo(dojo)
+
+#test
